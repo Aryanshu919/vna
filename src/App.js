@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { ConnectSection } from './components/ConnectSection';
+import { Footerr } from './components/Footerr';
+
 
 function App() {
   return (
     <div className="bg-slate-500">
-        HI There
+        <ConnectSection/>
+        <Footerr/>
     </div>
   );
 }
