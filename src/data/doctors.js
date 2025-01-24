@@ -36,15 +36,6 @@ const professionals = [
       ],
     },
     {
-      name: "Dr Kumar Ranjan Maji",
-      qualifications: ["MBBS", "MD – Psychiatry"],
-      roles: [
-        "Psychiatrist",
-        "Addiction Psychiatrist",
-        "Neuropsychiatrist",
-      ],
-    },
-    {
       name: "Dr Anup Sabharwal",
       qualifications: ["MBBS", "MS – ENT"],
       roles: [
@@ -73,14 +64,6 @@ const professionals = [
       qualifications: ["MBBS", "MS – General Surgery"],
       roles: [
         "Senior Consultant Laparoscopic Surgeon",
-      ],
-    },
-    {
-      name: "Mr. Kailash Mehra",
-      qualifications: ["MA Yoga", "PGDM & Fellowship – Pediatric Optometry"],
-      roles: [
-        "Optometrist",
-        "Vision Therapist",
       ],
     },
   ];
