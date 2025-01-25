@@ -2,7 +2,6 @@
 import './App.css';
 import { ConnectSection } from './components/ConnectSection';
 import { Footerr } from './components/Footerr';
-import {InfiniteMovingCards} from ""
 
 
 function App() {
